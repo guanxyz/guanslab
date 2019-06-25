@@ -1,0 +1,79 @@
+- name: Safa Shubbar
+  photo: safa.png
+  info: PhD student, started Fall 2018
+  email: sshubbar@kent.edu 
+  area: Big data analytics in bioinfomatics
+  number_educ: 2
+  education1: MS @ Kent State University, USA
+  education2: BS @ University of Al-Qadisiyah
+  education3:
+  education4:
+
+
+- name: Zhengyong Ren
+  photo: zhengyong.png
+  info: PhD student, started Fall 2018
+  email: zren2@kent.edu
+  area: Performance visualization
+  number_educ: 2
+  education1: MS @ Kent State University, USA
+  education2: BS @ East China Normal University, China
+  education3:
+  education4:
+
+
+- name: Hailong Jiang
+  photo: hailong.png
+  info: PhD Student, started Fall 2018
+  email: hjiang13@kent.edu
+  area: HPC fault tolerance
+  number_educ: 2
+  education1: MS @ University of Chinese Academy of Sciences Shanghai, China
+  education2: BS @ Xidian University, China
+  education3:
+  education4:
+
+
+- name: Betis Baheri
+  photo: betis.png
+  info: PhD Student (co-advised with Dr. Ghazinour), started Spring 2019
+  email: bbaheri@kent.edu
+  area: HPC-cloud system and quantum computing
+  number_educ: 1
+  education1: BS @ Kent State University, USA
+  education2:
+  education3:
+  education4:
+
+- name: Shaolun Ruan
+  photo: shaolun.png
+  info: PhD Student, started Fall 2019
+  email: TBD@kent.edu
+  area: TBD
+  number_educ: 1
+  education1: BS @University of Electronic and Science Tech of China, China
+  education2:
+  education3:
+  education4:
+
+- name: Yuxin Yang
+  photo: yuxin.png
+  info: PhD Student, started Fall 2019
+  email: TBD@kent.edu
+  area: TBD
+  number_educ: 1
+  education1: BS @ Nanjing Tech University, China
+  education2:
+  education3:
+  education4:
+
+
+          #- name: "This could be you !"
+          #  photo: rock.jpg
+          #  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+          #  email: milan.allan@gmail.com
+          #  number_educ: 0
+          #  education1:
+          #  education2:
+          #  education3:
+          #  education4:

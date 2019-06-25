@@ -1,0 +1,8 @@
+- name: Qiang Guan
+  photo: qguan.png
+  info: Assistant Professor
+  email: qguan@kent.edu
+  number_educ: 3
+  education1: Computer Scientist @ <a href= "https://datascience.dsscale.org/" > Data Science at Scale team </a>@ Los Alamos National Laboratory with <a href= "https://sites.google.com/site/jamesahrens/jamesahrens?authuser=0">Dr. James Ahrens </a> and <a href= "https://www.lanl.gov/projects/ultrascale-systems-research-center/staff-lanl.php"> Dr. Nathan DeBardeleben </a>
+  education2: Postdoc @ High Performance Computing division @ Los Alamos National Laboratory with <a href= "https://www.lanl.gov/projects/ultrascale-systems-research-center/staff-lanl.php"> Dr. Nathan DeBardeleben </a> 
+  education3: PhD @ University of North Texas with <a href= "https://www.cse.unt.edu/~song">Dr. Song Fu</a> 
