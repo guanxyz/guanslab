@@ -1,1 +1,2 @@
-/usr/bin/bundle exec jekyll serve --host=131.123.34.118
+/home/linuxbrew/.linuxbrew/bin/bundle exec jekyll build
+cp -r _site/* /var/www/html/

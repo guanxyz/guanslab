@@ -1,39 +1,48 @@
+- date: Sep 2019
+  headline: "Qiang is invited by CRA workshop, CCC Wide-Area Data Analytics workshop"
+
+- date: Aug 2019
+  headline: "Qiang joined the Extended Reality Initiative (XRi) project at Kent State. He is leading the VR software team" 
+
+- date: Jun 2019
+  headline: "[Paper]Our collaborative paper with GaTech is accepted by SC'19"
+
 - date: May 2019
-  headline: "Welcome Shaolun and Yuxin, who are joining the lab from fall 2019."
+  headline: "[Lab]Welcome Shaolun and Yuxin, who are joining the lab from fall 2019."
+
+- date: May 2019
+  headline: "[Award]Our STREAM project on smart translation for multi-culture pupulations is funded by CCI Research and Creative Activity Fund (RACAF) of Kent State University."
 
 - date: April 2019
-  headline: "We are awarded by DoE Los Alamos National Laboratory for developing scheduling system for new generation HPC-cloud system."
+  headline: "[Award]We are awarded by DoE Los Alamos National Laboratory for developing scheduling system for new generation HPC-cloud system."
 
 - date: March 2019
-  headline: "Our collaborative paper is accepted by ICS 2019."
+  headline: "[Paper]Our collaborative paper is accepted by ICS 2019."
 
 - date: January 2019
-  headline: "Betis Joins the team. Welcome!"
+  headline: "[Lab]Betis Joins the team. Welcome!"
 
 - date: January 2019
-  headline: " As a participate of DoE ECP project, Dr. Guan and Paul Bryant are invited to give a tutorial at ECP annual meeting."
+  headline: " [Lab]As a participate of DoE ECP project, Dr. Guan and Paul Bryant are invited to give a tutorial at ECP annual meeting."
 
 - date: December 2018
-  headline: "Two papers are presented at  IEEE Bigdata '18. "
+  headline: "[Paper]Two papers are presented at  IEEE Bigdata '18. "
 
 - date: December 2018
-  headline: "Paul Bryant successfully defensed his MS thesis. He will join New Mexico Consortium as a system engineer."
+  headline: "[Lab]Paul Bryant successfully defensed his MS thesis. He will join New Mexico Consortium as a system engineer."
 
 - date: August 2018
-  headline: "We are awarded by DoE Los Alamos National Laboratory for  studying soft errors in next generation HPC systems."
+  headline: "[Award]We are awarded by DoE Los Alamos National Laboratory for  studying soft errors in next generation HPC systems."
 
 - date: August 2018
-  headline: "Our collaborative paper is accepted by SC'18"
+  headline: "[Paper]Our collaborative paper is accepted by SC'18"
 
 - date: August 2018
-  headline: "Our collaborative paper is accepted by DataCom'18"
-
-- date: August 2018
-  headline: "Safa, Hailong, Zhengyong join the team"
+  headline: "[Lab]Safa, Hailong, Zhengyong join the team"
 
 - date:  May 2018
-  headline: "Our BEEFlow paper is accepted by ICDCS'18"
+  headline: "[Paper]Our BEEFlow paper is accepted by ICDCS'18"
 
 - date: January 2018
-  headline: "Dr. Guan joined the CS department of Kent State University"
+  headline: "[Lab]Dr. Guan joined the CS department of Kent State University"
 
